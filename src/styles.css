@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* color:yellow */
+}
+input {
+  border-color: blueviolet;
+  width: 15rem;
+  height: 4rem;
+}
+.fullPage {
+  background-color: rgb(240, 240, 110);
+}
+h1 {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  font-size: 2.5rem;
+}
